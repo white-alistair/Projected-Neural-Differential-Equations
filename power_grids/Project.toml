@@ -1,0 +1,12 @@
+[deps]
+AmbientForcing = "e2f64fc7-2bff-4a84-bd3f-8a41fe73f145"
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+CairoMakie = "13f3f980-e62b-5c42-98c6-ff1f3baf88f0"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+JLD2 = "033835bb-8acc-5ee8-8aae-3f567f8a3819"
+OrderedCollections = "bac558e1-5e72-5ebc-8fee-abe8a469f55d"
+OrdinaryDiffEq = "1dea7af3-3e70-54e6-95c3-0bf5283fa5ed"
+PowerDynamics = "cc46b21f-1b17-51c2-b642-af74c3d3a8be"
+ProgressBars = "49802e3a-d2f1-5c88-81d8-b72133a6f568"
+SyntheticPowerGrids = "614d5db8-069d-4715-bab2-9c1c938ea65a"

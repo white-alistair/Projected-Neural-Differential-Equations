@@ -1,0 +1,38 @@
+# Julia
+LocalPreferences.toml
+
+# Generated outputs
+*.pdf
+*.aux
+*.bbl
+*.blg
+*.brf
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+
+# Data and checkpoints (large binary files tracked via Git LFS or excluded)
+*.jld2
+
+# Runtime artifacts
+*.tfevents*
+*.err
+*.out
+*.mp4
+*.ptx
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# IDE
+.vscode/
+.cursor/
+.claude/
